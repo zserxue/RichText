@@ -1,0 +1,9 @@
+{
+	"name": "sourcemap",
+	"tree": {
+		"$path": "Packages",
+		"RichText": {
+			"$path": "src"
+		}
+	}
+}
