@@ -1,9 +1,0 @@
-{
-	"name": "sourcemap",
-	"tree": {
-		"$path": "Packages",
-		"RichText": {
-			"$path": "./default.project.json"
-		}
-	}
-}
