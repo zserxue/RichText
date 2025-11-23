@@ -1,0 +1,13 @@
+[package]
+name = "zserxue/richtext"
+description = "RichText for Dialogue."
+authors = ["zserxue"]
+version = "0.1.0"
+
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+exclude = ["**"]
+include = ["src", "src/*", "default.project.json", "wally.lock", "wally.toml"]
+
+[dependencies]

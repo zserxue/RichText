@@ -1,0 +1,6 @@
+{
+    "robloxLsp.diagnostics.disable": [
+        "self",
+        "undefined-type"
+    ]
+}
